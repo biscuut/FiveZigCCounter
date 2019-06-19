@@ -7,7 +7,7 @@ import eu.the5zig.mod.event.LoadEvent;
 import eu.the5zig.mod.modules.Category;
 import eu.the5zig.mod.plugin.Plugin;
 
-@Plugin(name = "C Counter", version = "1.0")
+@Plugin(name = "C Counter", version = "1.0.1")
 public class FiveZigCCounter {
 
     @SuppressWarnings("unused")
